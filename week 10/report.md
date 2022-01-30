@@ -308,7 +308,7 @@ add_word = ["新时代", "人类命运共同体", "一个中国"]
 tp.plot(string, stopwords_list=stopwords_list, add_word=add_word)
 ```
 
-<img src="D:\vscode py\现代程设\week 10\TextPlotter.png" alt="TextPlotter" style="zoom:10%;" />
+![image-20220130213902036](https://s2.loli.net/2022/01/30/A6cTlFO5G7Jtosa.png)
 
 ### 10.6 ImagePlotter子类
 
@@ -341,9 +341,7 @@ ip = ImagePlotter()
 ip.plot("D:\\vscode py\\现代程设\\week 10\\images\\", "jpg", nrow=3, ncol=3)
 ```
 
-
-
-<img src="D:\vscode py\现代程设\week 10\ImagePlotter.png" alt="ImagePlotter" style="zoom:10%;" />
+![image-20220130213946977](https://s2.loli.net/2022/01/30/pyUMfScO4msxVF1.png)
 
 ### 10.7 GifPlotter子类
 
