@@ -37,7 +37,7 @@ A course taught by Jichang and all the codes and attachments are stored in it.
 
 ### Acknowledgements
 
-Gratefully thanks [Jichang Zhao](http://www.zhaojichang.cn/), the lecturer of this course, who fascinated and enlightened me to tackle complex problems and push our personal laptop to the performance limit etc by using python. This is an absolute useful and practical course both for our professional study and future career. If you possibly have read here (which I appreciate very much), I shall give you my suggestion, which is simply listening carefully during class and trying your best to complete every single assignment. After a semester of hardworking, I guarantee that your coding ability shall be improved to another level. 祝好.
+Gratefully thanks [Jichang Zhao](http://www.zhaojichang.cn/), the lecturer of this course, who fascinated and enlightened me to tackle complex problems and push our personal laptop to the performance limit etc by using python. This is an absolute useful and practical course both for our professional study and future career. Possibly have you read here (which I appreciate very much), I shall give you my suggestion, which is simply listening carefully during class and trying your best to complete every single assignment. After a semester of hardworking, I guarantee that your coding ability shall be improved to another level. 祝好.
 
 ps: Plz leave the star if you like this repository.
 
