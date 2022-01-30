@@ -1,7 +1,6 @@
 <h1 align='center' herf='https://github.com/kx-liu/Modern-Programming-2021'>
     BUAA SEM Modern Programming Project 2021
 </h1>
-
 <div align='center'>
 <img src='https://img.shields.io/badge/Author-kx--liu-orange' />
 <img src='https://codebeat.co/badges/fc4cec21-15f2-437c-a543-a2466ca81a6f' />
@@ -9,6 +8,7 @@
 <img src='https://img.shields.io/github/license/kx-liu/Modern-Programming-2021' />
 <img src='https://img.shields.io/github/stars/kx-liu/Modern-Programming-2021' />
 </div>
+
 
 ### Modern Programming Project 2021
 
